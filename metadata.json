@@ -1,0 +1,5 @@
+{
+  "name": "GeoGuide: Explore & Navigate",
+  "description": "Discover top tourist attractions, parks, and ATMs with precise Google Maps integration, ticketing links, and AI-powered insights.",
+  "requestFramePermissions": ["geolocation"]
+}
